@@ -112,5 +112,6 @@ body {
 }
 
 .month-list span:hover {
-  background-color: #ddd;
+  background-color: #135151;
+  color: white;
 }/*# sourceMappingURL=style.css.map */

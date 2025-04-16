@@ -88,5 +88,12 @@ const isLeapYear = (year) => {
   // Initialize
   generateCalendar(currentMonth, currentYear);
 
-  
+  // today
+
+
+ let today = document.querySelector("#today");
+ 
+
+ today.append (currentDate);
+ 
   
